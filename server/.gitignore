@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Env - Important (your MONGODB_URI)
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Vercel / Build
+.vercel
+dist
+build
+
+# OS
+.DS_Store

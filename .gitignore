@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Env Files - Hide all env everywhere
+.env
+**/.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Build
+dist/
+build/
+**/dist/
+**/build/
+dist-ssr/
+*.local
+
+# Vercel
+.vercel
+**/.vercel
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
