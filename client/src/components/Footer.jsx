@@ -117,7 +117,7 @@ const Footer = () => {
             <ul className="mt-3 flex flex-col gap-1.5">
               <li>West Arabindanagar, Jalpaiguri</li>
               <li>West Bengal, 735101</li>
-              <li>+91 98765 43210</li>
+              <li>+91 12345678</li>
               <li>info@carrental-jalpaiguri.com</li>
             </ul>
           </div>
