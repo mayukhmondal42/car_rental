@@ -102,11 +102,15 @@ API will run at: `http://localhost:3000`
  <img src="Img/cars.jpeg" alt="Cars Listing" width="800" />
 </p>
 <p align="center">
- <img src="Img/booking.jpeg" alt="Booking Page" width="800" />
+ <img src="Img/my-booking.jpeg" alt="Booking Page" width="800" />
+</p>
+<p align="center">
+ <img src="Img/admin-dashboard.jpeg" alt="Home Page" width="800" />
 </p>
 <p align="center">
  <img src="Img/mobile-view.jpeg" alt="Mobile View" width="400" />
 </p>
+
 
 🔮 Future Improvements
 
